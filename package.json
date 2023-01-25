@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
- "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+   "build": "nuxt build",
+    "dev": "nuxt",
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "@nuxtjs/firebase": "^7.6.1",
