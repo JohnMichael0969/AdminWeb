@@ -5,8 +5,9 @@
   "scripts": {
    "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
     "generate": "npm run generate"
+    "start": "nuxt start",
+    
   },
   "dependencies": {
     "@nuxtjs/firebase": "^7.6.1",
